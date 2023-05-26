@@ -1,6 +1,6 @@
 # RPC Interface Documentation
 
-This document is an RPC interface document for TFSC,This document is an RPC interface document for TFSC. You can log in [Transformers Labs (github.com)](https://github.com/tfs-labs) to get code for compilation and obtain program.The document which is applicable to TFSC version 0.22.2 introduces some commonly used information acquisition interfaces, transaction interfaces, and callback interfaces.
+This document is an RPC interface document for TFSC,This document is an RPC interface document for TFSC. You can log in [Transformers Labs (github.com)](https://github.com/tfs-labs) to get code for compilation and obtain program.The document which is applicable to TFSC version 0.25.0 introduces some commonly used information acquisition interfaces, transaction interfaces, and callback interfaces.
 
 ## Enable RPC interface (important)
 
